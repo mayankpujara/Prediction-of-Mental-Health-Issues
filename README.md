@@ -30,4 +30,4 @@ You can access the original dataset on Kaggle [here](https://www.kaggle.com/data
 - Support Vector Classification Model: 70.6349%
 - Decision Tree Classifier: 64.2857%
 <br><br>
-The Random Forest Classifier demonstrated the highest accuracy in predicting mental health conditions, showcasing the effectiveness of machine learning techniques for pre-diagnosis screening.
+The Random Forest Classifier demonstrated the highest accuracy in predicting mental health conditions, showcasing the effectiveness of machine learning techniques for pre-diagnosis screening. This project highlights the possibilities of sophisticated analytics in mental health evaluations and is a useful resource for understanding the dynamics of mental health in the workplace.
